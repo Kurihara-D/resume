@@ -1,8 +1,8 @@
-# { name } resume
+# Kurihara resume
 
 ## Sample
 
-https://github.com/kawamataryo/resume
+https://github.com/Kurihara-D/resume
 
 ## Features
 
