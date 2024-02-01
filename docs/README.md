@@ -13,8 +13,8 @@
 
 ## Skills
 
-- Design and Development in Ruby/Ruby on Rails
-- Design and build a cloud in AWS
+- Design and Development
+- Design and build a Cloud
 - Database Design
 - Cloud development for availability and scalability
 
@@ -30,6 +30,8 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
     <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Go-fff.svg?logo=go&style=flat-square">
+    <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
     
 </p> 
 
@@ -38,6 +40,7 @@
     <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E74430?style=flat-square&logo=laravel&logoColor=white" />
     <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat-square">
     <!-- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
 </p>
 
